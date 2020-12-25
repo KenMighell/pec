@@ -17,8 +17,8 @@ https://github.com/KenMighell/pec
 **Astrophysics Source Code Library**:  
 https://ascl.net/1304.001
 
+**Source code**:  
+https://github.com/KenMighell/pec/blob/main/pec.c
+
 **Original source code (cited in article)**:  
 https://www.noao.edu/staff/mighell/PEC/pec.c
-
-
- 
